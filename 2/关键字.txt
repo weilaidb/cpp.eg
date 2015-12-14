@@ -1,0 +1,35 @@
+关键字
+C/C++ Keywords
+asm  插入一个汇编命令
+auto 声明一个本地变量 
+bool 声明一个布尔变量 
+catch 处理thrown产生的异常
+const_cast 从一个const变量中抛出
+delete 释放内存
+double 声明一个双精度浮点变量
+dynamic_cast 动态投射
+explicit 仅用在构造器的正确匹配
+friend 允许非函数成员使用私有数据
+inline 定义一个函数为内联
+mutable 忽略const变量
+namespace 用一个定义的范围划分命名空间
+operator 创建重载函数
+register 定义一个寄存器变量
+reinterpret_cast 改变一个变量的类型
+static 给一个变量创建永久的存储空间
+static_cast 执行一个非多态性cast
+temlate 创建一个特殊函数
+this 指向当前对象
+throw 抛出一个异常
+try 执行一个被throw抛出的异常
+typedef 从现有的类型中创建一个新类型
+typeid 描述一个对象
+typename 声明一个类或未定义的类型
+union 一个结构体在当前位置分配多个变量相同的内存
+using 用来输入一个namespace
+virtual 创建一个不被已构成类有限考虑的函数
+volatile 警告编译器有关的变量可能被出乎意料的修改
+wchar_t 声明一个带有宽度的字符型变量
+
+
+
